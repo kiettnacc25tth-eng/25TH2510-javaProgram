@@ -8,8 +8,12 @@ public class BaiTap2 {
 		int b = 4;
 		double c = 3.5;
 	// 2. Tính toán
-		int long = a + b;
-		double thuong = a / c;
+		int tong = a + b;
+		double thuong = a / b;
+	// 3. Xuất ra
+		System.out.println("Tổng là: " + tong);
+		System.out.print("Thương là: " + thuong + "\n");
+		
 	}
 
 }
