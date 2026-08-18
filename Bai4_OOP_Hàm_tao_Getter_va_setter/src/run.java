@@ -21,7 +21,7 @@ public class run {
 		cn1_rong= cn1.getRong();
 		System.out.print("Hình CN1 có chiều dài là : ");
 		System.out.print(cn1_dai);
-		System.out.println("\nHình CN1 có chiều rộng là : " + cn1_rong);
+		System.out.println ("\nHình CN1 có chiều rộng là : " + cn1_rong);
 		// Sử dụng phương thức toString
 		System.out.print(cn1.toString() );
 	}
