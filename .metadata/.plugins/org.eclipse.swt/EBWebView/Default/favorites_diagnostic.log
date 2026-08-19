@@ -46,3 +46,13 @@
 2026-08-18 17:06:32.516: [INFO] BookmarkModelLoaded, ids_reassigned: 0
 2026-08-18 17:06:32.516: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-08-18 17:06:32.516: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 17:08:00.146: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 14:24:55.483: [INFO] CurrentProfilePath: C:\Users\trann\Downloads\25TH2510-javaProgram\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 14:24:55.483: [INFO] Profiles total count: 1
+2026-08-19 14:24:55.485: [INFO] Profile: name=Profile 1 path=C:\Users\trann\Downloads\25TH2510-javaProgram\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T17:06:34.308Z
+2026-08-19 14:24:55.485: [INFO] LastUsedProfileDir: C:\Users\trann\Downloads\25TH2510-javaProgram\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-19 14:24:55.485: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\trann\Downloads\25TH2510-javaProgram\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-18T17:06:34.308Z
+2026-08-19 14:24:55.485: [INFO] OnDoneLoading sync enabled: 0
+2026-08-19 14:24:55.485: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-19 14:24:55.485: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-19 14:24:55.485: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
