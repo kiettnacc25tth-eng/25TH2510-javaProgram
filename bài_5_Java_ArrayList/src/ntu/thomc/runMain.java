@@ -11,12 +11,19 @@ public class runMain {
 	for (int i=0; i<10; i++) {
 		// Nhập 1 phần tử
 		// In ra một hướng dẫn cho người dùng
-		System.out.print("Mời nhập phần tử thứ 1: ");
+		System.out.print("Mời nhập phần tử thứ "+ i +": ");
 		// cho User nhập, cất vào biến tạm
 		Integer tam = banPhim.nextInt();
 		// Thêm vào cuối danh sách
 		dsSoNguyen.add(tam);
 	}	
+	//b. In ra danh sách vừa nhập
+	System.out.print("DANH SÁCH VỪA NHẬP LÀ \n");
+	for (int i=0; i<dsSoNguyen.size(); i++) {
+		// Lấy giá trị Phần Tử ở vị trí i, cất vào biến tạm
+		Integer tam = dsSoNguyen.get(i);
+		System.out.print(tam + "");
+	}
 	}
 
 }
