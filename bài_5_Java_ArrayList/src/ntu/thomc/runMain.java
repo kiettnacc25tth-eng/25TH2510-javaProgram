@@ -24,6 +24,18 @@ public class runMain {
 		Integer tam = dsSoNguyen.get(i);
 		System.out.print(tam + "");
 	}
+	//c. điếm số phần tử chẵn
+	int soLuongPTchan=0;
+	for (Integer x: dsSoNguyen) {
+		if (x % 2 ==0) soLuongPTchan=soLuongPTchan+1;
+	}
+	System.out.println("Số phần tử chẵn là: " + soLuongPTchan);
+	//d. Tính Tổng các phần tử: Thuật toán cộng dồn
+	int TongAll=0;
+	for (Integer x: dsSoNguyen) {
+		TongAll = TongAll +x;
+	}
+	System.out.println("Tổng tất cả các phần tử là: " + TongAll);
 	}
 
 }
